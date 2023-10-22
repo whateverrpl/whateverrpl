@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 📚 I'm currently learning JS and API <br>🎯 Goals: I`m gonna to be a middle front-end developer</p>
+<p align="left"> 📚 I'm currently learning JS and API <br>🎯 Goals: I`m gonna to be a middle front-end developer</p>
 
 ###
 
