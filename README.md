@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React,js <br>🎯 I'm aiming for a front-end middle developer position. And to work remotely<br>📚 Interesting facts: I work 10-16 hours a day as a quality inspector checking the quality of BMW modules produced</p>
+<p align="left">📚 I'm currently learning React,js <br>🎯 I'm aiming for a front-end middle developer position. And to work remotely<br></p>
 
 ###
 
