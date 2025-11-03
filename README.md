@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sasha and I'm a beginner front-end developer from poland</p>
+<p align="left">My name is Sasha and I'm a beginner front-end developer from Ukraine</p>
 
 ###
 
